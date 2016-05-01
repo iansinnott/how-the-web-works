@@ -2,10 +2,12 @@
 
 ## Tools
 
+**NOTE:** This section recommends the tools you should have installed on your computer and assumes a Unix (Mac or Linux) environment. Windows users may not have access to some of these tools by default.
+
 * `curl` (already installed)
 * `python` (already installed)
 * HTTPie (https://github.com/jkbrzt/httpie)
-  * On a mac just `brew update && brew install httpie`
+  * On a Mac just `brew update && brew install httpie`
 * Node v5 or above and NPM v3 or above (https://nodejs.org/en/)
 
 ## Basic Example
