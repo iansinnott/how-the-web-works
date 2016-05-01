@@ -24,5 +24,11 @@
   </nav>
   <h1>Basic HTML Example</h1>
   <p>Let's party.</p>
+  <script>
+    setTimeout(() => {
+      var h1 = document.querySelector('h1');
+      h1.textContent = 'JavaScript Took Over!';
+    }, 1000);
+  </script>
 </body>
 </html>

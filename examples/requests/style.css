@@ -1,0 +1,11 @@
+nav {
+  background: #ddd;
+}
+nav a {
+  display: inline-block;
+  padding: 20px;
+}
+.active {
+  color: black;
+  text-decoration: none;
+}
