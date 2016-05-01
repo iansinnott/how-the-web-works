@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "How the web works",
   "version": "0.1.0",
   "description": "A group of examples to demonstrate part of how the web works",
   "engines": {
@@ -8,13 +8,6 @@
   "scripts": {
     "test": "echo 'No tests specified.'",
     "start": "echo 'No start command specified.'"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/iansinnott/react-static-boilerplate"
-  },
-  "bugs": {
-    "url": "https://github.com/iansinnott/react-static-boilerplate/issues"
   },
   "author": "Ian Sinnott <ian@iansinnott.com> (http://iansinnott.com)",
   "license": "MIT",
