@@ -15,3 +15,17 @@ From `examples/basic`:
 * `http-server`
 * `python -m SimpleHTTPServer 8080`
 * `php -S localhost:8080`
+
+## Server Example
+
+From `examples/server`:
+
+* `node server.js`
+
+## Requests Example
+
+From `examples/server`:
+
+* `http-server`
+
+Open the Network tab in chrome dev tools
